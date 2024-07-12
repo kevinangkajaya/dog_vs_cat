@@ -1,3 +1,8 @@
+# Dog vs Cat!
+Upload your image and check if it is a dog or a cat! 
+Note that this project is very simple, it cannot accurately judge pictures that are not dogs or cats.
+Open the website: https://kevinangkajaya.github.io/dog_vs_cat
+
 # Astro Starter Kit: Basics
 
 ```sh
